@@ -1,4 +1,4 @@
-# Project 2
+# Predicting overdose mortality
 
 ## Goal
 The overall goal of this project was to build a linear regression model that would predict the overdose mortality rate per county in 2016.
